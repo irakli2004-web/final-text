@@ -1,0 +1,238 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    scroll-margin: none;
+}
+.banner_card img{
+    
+ max-width: 100%;
+ height: auto;
+}
+.banner_card{
+    width: 1610px;
+    
+    position: relative;
+    
+}
+.banner_text{
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    display: flex;
+}
+.box1{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 30px;  
+}
+.box2{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.space{
+    margin-left:700px ;
+}
+.box3{
+    
+    display: block;
+    margin-top: 200px;
+   
+}
+.box4{
+    margin-left: 150px;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box5{
+    margin-left: 100px;
+    margin-top: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box6{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 700px;
+}
+.box7{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 600px; 
+    width: 300%;
+}
+.box8{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.box9{
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 100px;
+}
+.box10{
+    margin-right: 100px;
+    color: rgb(174, 177, 179);
+}
+.box-image{
+    display: flex;
+}
+.box11{
+    margin-left: 100px;
+}
+.box12{
+    margin-top: 150px;
+}
+.box13{
+    margin-left: 40px;
+    margin-top: 150px;
+}
+.boxjjjjk{
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.box14{
+    color: rgb(174, 177, 179);
+    margin-left: 40px;
+}
+.hhh{
+    margin-bottom: 15px;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+}
+footer{
+    
+    justify-content: space-between;
+        display: flex;
+    
+    color: rgb(255, 255, 255);
+    background-color: brown;
+}
+.fff{
+    color: rgb(255, 255, 255);
+    margin-right: 220px;
+}
+.final{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.lll{
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+.box124{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.hhh2{margin-bottom: 15px;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);}
+    .fff2{color: rgb(255, 255, 255);
+        margin-right: 220px;}
+@media  (max-width:1700px){
+    .box113{display: none;}
+    .box121{display: none;}
+    .box136{display: none;}
+    .box124{display: none;}
+    .mobiluri{display: none;}
+    .hhh2{display: none;}
+    .fff2{display: none;}
+    .size{display: none;}
+    .box126{display: none;}
+    
+}
+@media (max-width:375px){
+    
+    .box8{display: none;}
+    .box124{display: flex;}
+    .box125{margin-right: 20px;}
+    .box1{display: none;}
+    .box2{margin-right: 200px;}
+    .box136{ margin-right: 222px;
+     display: flex;}
+    .box10{display: none;}
+    .mobiluri{display: flex;}
+    .box12{display: none;}
+    .ffffgf{ display:none ;}
+    .final{display: none;}
+    .hhh2{display: flex;
+        justify-content: center;}
+    .fff2{display: flex;
+        margin-left: 140px;}
+        .size{display: flex;}
+        .box126{display: flex;}
+}
+
+@media  (max-width:1024px){
+    *{margin: auto;
+    width: auto;}
+    
+    
+    
+    .space{width: auto;
+         margin: auto;
+        margin-left: 200px;}
+    .banner_card{width: auto;
+        margin: auto;
+        width: 1024px;}
+    .box8{width: auto;
+        margin: auto;
+        margin-left: 50px;}
+    .box6{width: auto;
+        margin: auto;
+        margin-left: 410px;}
+    .box7{width: auto;
+        margin: auto;
+        margin-left: 50px;}
+        .box113{ 
+            display: flex;
+        }
+    .box8{width: auto;
+        margin: auto;
+        gap: 20px;
+      flex: 50%;
+    max-width: 70%;
+    .box114{display: none;}
+    .box113{
+        margin-top: 100px;
+    }
+    .box124{display: none;}
+    
+}
+    .box11{margin-top: 100px ;}
+    .boxfff{
+        display: none;
+    }
+    .box9{margin-right: 50px;
+        margin-left: 50px;
+        margin-top: 100px;}
+        .box13{
+            margin-left: 100px;
+            
+        }
+        .box14{margin-top: 100px;
+            margin-left: 100px;
+            margin-bottom: 50px;
+        }
+        .boxjjjjk{
+            margin-left: 100px;
+            margin-bottom: 50px;
+        }
+        .footer{
+            margin-top: 50px;
+        }
+        .lll{display: none;}
+        .box121{display: flex;}
+        
+        .ffffgf{justify-content: center;
+
+        }
+        .fff{display: flexbox;
+            margin-right: 1100px;}
+       
+}
